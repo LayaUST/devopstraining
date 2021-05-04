@@ -1,1 +1,3 @@
 text9.txt
+testing merging
+test merge
